@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "712014f5d75263bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b760e9b07af16e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44990285d1abb6c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contenido.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7bb5967a972a607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Derivadas/Diferencial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7901525c0af4d7cd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CALCULO_TRASCENDENTES_TEMPRANAS_8va_Edi.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c287abe17157b28c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7b2cd1cd9b43d1b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CALCULO_TRASCENDENTES_TEMPRANAS_8va_Edi.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa07c039e958c1a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e762a81f73bd0b5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91c615087535a759",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6ef20e299125a45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95e62a7f4191dc0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88b1e32169fe846f",
+    "type": "split",
+    "children": [
+      {
+        "id": "62faf6939e004f05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec9e462b445119de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Contenido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "041c14fd74d3eaa8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Contenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f2e9401c6682a48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "2fc3cc89e89c13e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Contenido.md"
+              }
+            }
+          },
+          {
+            "id": "d567fdf6f3ae5dd4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "44990285d1abb6c7",
+  "lastOpenFiles": [
+    "Derivadas/Diferencial.md",
+    "Derivadas/Reglas de derivación.md",
+    "Derivadas/Aproximación lineal.md",
+    "CALCULO_TRASCENDENTES_TEMPRANAS_8va_Edi.pdf",
+    "Derivadas/Imagenes/Diferencial.png",
+    "Contenido.md",
+    "Derivadas/Imagenes/Aproximación lineal.png",
+    "Glosario.md",
+    "Derivadas/Derivación implícita.md",
+    "formulario.pdf",
+    "desktop.ini",
+    "RECORDATORIO.md",
+    "Funciones/Funciones definidas por partes.md",
+    "Derivadas/La regla de la cadena.md",
+    "Untitled",
+    "Propiedades de los límites.md",
+    "Derivadas/Notaciones de la derivada.md",
+    "Funciones/Combinación de funciones.md",
+    "Funciones/Función sobreyectiva.md",
+    "Límites/Límites al infinito.md",
+    "Límites/Asíntotas.md",
+    "Derivadas/Razones de cambio.md",
+    "Derivadas/Tangentes.md",
+    "Derivadas/Derivadas.md",
+    "Límites/Leyes de los límites.md",
+    "Límites/Continuidad.md",
+    "Funciones/Funciones.md",
+    "Funciones/Función inversa.md",
+    "Funciones/Función inyectiva.md",
+    "Funciones/Transformaciones de funciones.md",
+    "Funciones/Simetría de funciones.md",
+    "Funciones/Imágenes/Composición de funciones.png",
+    "Derivadas/Imagenes/Razón de cambio.png",
+    "Derivadas/Imagenes/Aproximación usando h.png",
+    "Derivadas/Imagenes/Límite pendiente.png",
+    "Derivadas/Imagenes/Aproximación.png",
+    "Derivadas/Imagenes",
+    "Derivadas",
+    "Límites/Imágenes/Infinito positivo.png",
+    "Límites/Imágenes/Infinito negativo.png",
+    "Límites/Imágenes/Ejemplo.png",
+    "Untitled.canvas",
+    "Límites/Imágenes",
+    "Límites",
+    "Excalidraw",
+    "Funciones"
+  ]
+}
