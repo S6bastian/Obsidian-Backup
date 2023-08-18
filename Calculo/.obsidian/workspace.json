@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "bf7a89ea1c6b484a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RECORDATORIO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7901525c0af4d7cd",
             "type": "leaf",
             "state": {
@@ -41,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c287abe17157b28c",
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contenido.md",
+                "file": "RECORDATORIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contenido.md",
+                "file": "RECORDATORIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contenido.md"
+                "file": "RECORDATORIO.md"
               }
             }
           },
@@ -195,20 +208,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "44990285d1abb6c7",
+  "active": "bf7a89ea1c6b484a",
   "lastOpenFiles": [
+    "CALCULO_TRASCENDENTES_TEMPRANAS_8va_Edi.pdf",
+    "RECORDATORIO.md",
     "Derivadas/Diferencial.md",
+    "Contenido.md",
+    "Untitled.md",
     "Derivadas/Reglas de derivación.md",
     "Derivadas/Aproximación lineal.md",
-    "CALCULO_TRASCENDENTES_TEMPRANAS_8va_Edi.pdf",
     "Derivadas/Imagenes/Diferencial.png",
-    "Contenido.md",
     "Derivadas/Imagenes/Aproximación lineal.png",
     "Glosario.md",
     "Derivadas/Derivación implícita.md",
     "formulario.pdf",
     "desktop.ini",
-    "RECORDATORIO.md",
     "Funciones/Funciones definidas por partes.md",
     "Derivadas/La regla de la cadena.md",
     "Untitled",
@@ -227,7 +241,6 @@
     "Funciones/Función inversa.md",
     "Funciones/Función inyectiva.md",
     "Funciones/Transformaciones de funciones.md",
-    "Funciones/Simetría de funciones.md",
     "Funciones/Imágenes/Composición de funciones.png",
     "Derivadas/Imagenes/Razón de cambio.png",
     "Derivadas/Imagenes/Aproximación usando h.png",
